@@ -1,5 +1,7 @@
 ${comment.start}
-${comment.line} @lc app=${app} id=${fid} lang=${lang}
+${comment.line} @lc app=${app} id=${slug} lang=${lang}
+${comment.line}
+${comment.line} NOTE (beewangruichao): I cannot use fid, thus I use slug instead.
 ${comment.line}
 ${comment.line} [${fid}] ${name}
 ${comment.line}
